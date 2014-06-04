@@ -1,0 +1,363 @@
+*
+{ outline: none;
+}
+
+body {
+	background-color: #056839;
+}
+#wrapper {
+	height: 550px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #FFF;
+	background-color: #034325;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #034325;
+	border-right-color: #034325;
+	border-bottom-color: #034325;
+	border-left-color: #034325;
+}
+#olhane {
+	background-image: url(img/olhane.gif);
+	height: 290px;
+	width: 300px;
+	margin-top: 45px;
+	margin-right: 0px;
+	margin-bottom: 45px;
+	margin-left: 45px;
+	float: left;
+	background-repeat: no-repeat;
+}
+#tekstpriserogol {
+	height: 300px;
+	width: 300px;
+	margin-top: 32px;
+	margin-left: 45px;
+	float: left;
+}
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	line-height: 16px;
+}
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #FFF;
+}
+
+#prisboks {
+	height: 250px;
+	width: 50px;
+	margin-top: 65px;
+	float: left;
+}
+#pantboks {
+	height: 120px;
+	width: 260px;
+	margin-top: 67px;
+	margin-left: 400px;
+	background-color: #056839;
+}
+#sodaboks {
+	height: 320px;
+	width: 260px;
+	margin-top: 67px;
+	margin-left: 400px;
+	background-color: #056839;
+}
+#tilbehorboks {
+	height: 230px;
+	width: 260px;
+	margin-top: 20px;
+	margin-left: 400px;
+	background-color: #056839;
+}
+#slushtilbehorboks {
+	height: 170px;
+	width: 260px;
+	margin-top: 67px;
+	margin-left: 400px;
+	background-color: #056839;
+}
+
+#overskriftpriser {
+	height: 20px;
+	width: 50px;
+	margin-top: 45px;
+	margin-left: 45px;
+	float: left;
+}
+
+
+
+#billedetilkontakt {
+	background-image: url(img/billedetilkontakt.jpg);
+	height: 290px;
+	width: 357px;
+	margin-top: 45px;
+	margin-right: 45px;
+	float: right;
+}
+
+#kontaktinfo {
+width: 175px;
+height: 150px;
+margin: 120px 0 0 105px;
+float: left;
+line-height: 16px; }
+#wrapper #midten #olhane p a  {
+text-decoration: none;
+color: #FFF;
+ }
+#wrapper #midten #olhane p a:hover {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FCB040;
+}
+.kontakt {
+	margin-top: 125px;
+	margin-left: 105px;
+}
+
+
+
+#Header {
+	background-color: #FFF;
+	float: left;
+	height: 100px;
+	width: 900px;
+	background-image: url(img/headerbillede.png);
+}
+#menulinie {
+	background-color: #056839;
+	float: left;
+	height: 20px;
+	width: 867px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 33px;
+}
+#infolinie {
+	background-color: #056839;
+	float: left;
+	height: 20px;
+	width: 704px;
+	margin-bottom: 15px;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-left: 196px;
+	margin-right: 0px;
+}
+
+#wrapper #infolinie p {
+	margin-top: 0px;
+	padding-top: 3px;
+	display: inline;
+	text-align: center;
+	float: left;
+}
+#wrapper #infolinie a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	float: left;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	font-weight: normal;
+	text-align: center;
+	padding-left: 0px;
+}
+.centrer {
+	text-align: center;
+}
+
+
+#midten {
+	background-color: #034325;
+	float: left;
+	height: 480px;
+	width: 900px;
+}
+
+#logokasse {
+	float: left;
+	height: 68px;
+	width: 235px;
+	margin-top: 16px;
+	margin-right: 45px;
+	margin-bottom: 16px;
+	margin-left: 620px;
+}
+#forsidebillede {
+	float: left;
+	height: 250px;
+	width: 250px;
+	margin-left: 45px;
+	margin-top: 98px;
+}
+#Tekstbokstilforside {
+	height: 150px;
+	width: 320px;
+	margin-top: 98px;
+	margin-left: 340px;
+}
+
+
+.menu {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	margin-right: 12px;
+	margin-left: 12px;
+	font-weight: bold;
+}
+
+#wrapper #menulinie a {
+font-family: Verdana, Geneva, sans-serif;
+font-size: 12px;
+font-weight: bold;
+color: #FFF;
+border-right-width: 1px;
+border-right-style: solid;
+border-right-color: #034325;
+text-decoration: none;
+padding-left: 12px;
+padding-right: 12px;
+margin-top: 3px;
+float: left;
+}
+
+#wrapper #menulinie a:hover {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FCB040;
+}
+#wrapper #infolinie a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+	padding-right: 12px;
+	margin-top: 3px;
+	float: left;
+}
+
+#wrapper #infolinie a:hover {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FCB040;
+}
+
+p {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #FFF;
+}
+#wrapper #midten #tekstpriserogol table tr td p {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	line-height: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+#wrapper #midten #pantboks #tilbehorboks #slushtilbehorboks #sodaboks table tr td p {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	margin-top: 0px;
+	padding-top: 0px;
+	line-height: 0px;
+}
+
+#wrapper #midten #tekstpriserogol table tr td h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 0px;
+	font-weight: bold;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: #FFF;
+}
+
+.ollogoer {
+	height: 316px;
+	width: 150px;
+	float: right;
+	margin-top: 32px;
+	margin-right: 45px;
+}
+#enkeltelogoer {
+	height: 84px;
+	width: 150px;
+}
+#lejebetingelsertekst {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	float: left;
+	height: 330px;
+	width: 598px;
+	margin-left: 45px;
+	margin-top: 32px;
+}
+
+.enkeltelogoer2 {
+	height: 84px;
+	width: 150px;
+	margin: 32px 0 0 0;
+}
+#thorkassetilologpriser {
+	height: 84px;
+	width: 150px;
+}
+#galleribilledeboks {
+	float: left;
+	height: 315px;
+	width: 310px;
+	margin-left: 45px;
+	margin-top: 32px;
+}
+#småbilledeboks {
+	float: right;
+	height: 315px;
+	width: 350px;
+	margin-top: 32px;
+	margin-right: 0px;
+	overflow: auto;
+	scrollbar-base-color:#034325;
+	scrollbar-arrow-color:#fcb040;
+}
+.billedeopsaetning {
+	margin-right: 4px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+}
+#thorlogokassetilforside {
+	float: left;
+	height: 84px;
+	width: 150px;
+}
+.farvetstreg {
+	color: #034325;
+}

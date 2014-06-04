@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+ 
+<body>
+<div id="wrapper"> 
+  <div id="Header">
+    <div id="logokasse"><img src="../img/giffil.gif" width="235" height="68" alt="djursfad" /></div>
+  </div>
+  <div id="menulinie"><a href="../index.html">Forside</a> <a href="../pages/ologpriser.html">Øl &amp; Priser</a> <a href="../pages/lejebetingelser.html">Lejebetingelser</a> <a href="../pages/galleri.html">Galleri</a> <a href="../pages/kontakt.html">Kontakt os</a></div> 
+  <!-- TemplateBeginEditable name="1" -->  <div id="midten"></div><!-- TemplateEndEditable -->
+  <div id="infolinie"> 
+    <p>Djursfad <span class="farvetstreg">|</span> Pejmarksvej 5 <span class="farvetstreg">|</span> 8500 Grenå <span class="farvetstreg">|</span> Tlf: 24 94 24 26 <span class="farvetstreg">|</span> Email:&nbsp; </p>   
+    <a href="#"> salg@djursfad.dk</a>
+  </div>  
+</div>
+</body>
+</html>
